@@ -1,20 +1,16 @@
 <div align="center">
 
-  # Internet Programming Teaching Practice
-</div>
-<div align="right">
+  ![](https://github.com/daraaveasna/I4GIC_InternetProgramming/blob/main/public/TP.svg) 
   
- **Course**: Internet Programming
-
- **Lecturer**: Thavorac CHUN
-</div>
-
-<div align="center">
-<img  src="https://media.giphy.com/media/CgCaB0B0zYp4kVhNPf/giphy.gif" width="123">
+  <img  src="https://media.giphy.com/media/CgCaB0B0zYp4kVhNPf/giphy.gif" width="123">
 </div>
 
 ## Project Overview
 The Internet Programming Project represents the culmination of our learning journey, combining various concepts and technologies to create a practical and valuable web application.
+
+- *Course*: Internet Programming
+ 
+- *Lecturer*: Thavorac CHUN
 
 ## Technologies Used
 <div align="left">
