@@ -1,14 +1,27 @@
-<script setup>
-import {RouterLink, RouterView} from "vue-router";
-</script>
-
 <template>
-  <h2 class="gradient-text">This is my first VueJS project</h2>
+  <div class="Box">
+    <ProductPage />
+    <CardsPage />
+  </div>
 </template>
 
+<script>
+import CardsPage from "./views/CardsPage.vue";
+import ProductPage from "./views/ProductPage.vue";
+
+export default {
+  name: "App",
+  components: {
+    ProductPage,
+    CardsPage,
+  },
+};
+</script>
+
 <style scoped>
-header {
-  line-height: 1.5;
-  max-height: 100vh;
+.Box {
+  margin: auto;
+  width: 1500px;
+  /* border: 1px solid blue; */
 }
 </style>
