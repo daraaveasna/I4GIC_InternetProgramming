@@ -5,14 +5,15 @@
   <img  src="https://media.giphy.com/media/CgCaB0B0zYp4kVhNPf/giphy.gif" width="123">
 </div>
 
-## Project Overview
+## Project Overview 
+
 The Internet Programming Project represents the culmination of our learning journey, combining various concepts and technologies to create a practical and valuable web application.
 
 - *Course*: Internet Programming
  
 - *Lecturer*: Thavorac CHUN
 
-## Technologies Used
+## Technologies 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
