@@ -42,7 +42,7 @@ The Internet Programming Project represents the culmination of our learning jour
 If you'd like to contribute to this project, please check out our GitHub repository for guidelines on how to contribute.
 
 ```ruby
-git clone https://github.com/daraaveasna/I4GIC_InternetProgramming
+git clone https://github.com/daraaveasna/internet-programming
 ```
 
 ## Contact
