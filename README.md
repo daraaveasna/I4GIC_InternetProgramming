@@ -37,7 +37,7 @@ The Internet Programming Project represents the culmination of our learning jour
 ## Contributed 
 If you'd like to contribute to this project, please check out our GitHub repository for guidelines on how to contribute.
 ```ruby
-git clone https://github.com/daraaveasna/I4GIC_InternetProgramming/tree/TP01
+git clone https://github.com/daraaveasna/I4GIC_InternetProgramming
 ```
 ## Contact
 If you have any questions, feedback, or concerns, feel free to reach out to me at [dara.veasna@dev.com](daraa.veasna@gmail.com)
