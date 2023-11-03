@@ -5,6 +5,8 @@
   <img  src="https://media.giphy.com/media/CgCaB0B0zYp4kVhNPf/giphy.gif" width="123">
 </div>
 
+![](https://github.com/daraaveasna/I4GIC_InternetProgramming/blob/TP01/e-commerce/src/assets/images/product_vue.png)
+
 ## Project Overview 
 
 The Internet Programming Project represents the culmination of our learning journey, combining various concepts and technologies to create a practical and valuable web application.
