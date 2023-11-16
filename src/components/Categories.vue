@@ -1,5 +1,5 @@
 <template>
-  <div class="Item-Box" :style="{backgroundColor: bg}">
+  <div class="Item-Box" :style="{ backgroundColor: bg }">
     <img class="Img" :src="Img" alt="Product" />
     <div class="itemname">{{ ItemName }}</div>
     <div class="itemnumber">{{ ItemNumber }}</div>
@@ -8,13 +8,14 @@
 
 <script>
 export default {
-  name: "Products",
-  props: {
-    Img: String,
-    ItemName: String,
-    bg: String,
-    ItemNumber: String,
-  },
+  name: "Categories",
+  // props: {
+  //   Img: String,
+  //   ItemName: String,
+  //   bg: String,
+  //   ItemNumber: String,
+  // },
+  props: ["Img", "ItemName", "bg", "ItemNumber"],
 };
 </script>
 
@@ -24,25 +25,25 @@ export default {
 .Item-Box {
   width: 136px;
   height: 177px;
-  margin-right: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  border: 1px solid rgba(129, 177, 61, 1);
-  box-shadow: 5px 5px lightgray;
+  margin-right: 10px;
+  margin-left: 10px;
+  border: 2px solid rgba(129, 177, 61, 1);
+  box-shadow: 10px 10px lightgray;
   border-radius: 10px;
 }
 .Item-Box:hover {
-  box-shadow: 3px 3px lightgray;
-  transform: translate(3px, 3px);
+  box-shadow: 5px 5px 5px rgba(129, 177, 61, 1);
+  transform: translate(5px, 5px);
   cursor: pointer;
-  border: 1px solid #eee;
 }
 .Img {
   position: relative;
   bottom: 16px;
-  width: 110px;
+  width: 100px;
 }
 .itemname {
   font-family: "Quicksand", sans-serif;

@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import Buttons from "./Buttons.vue";
+import Buttons from "./Button.vue";
 export default {
   name: "Cards",
   props: {

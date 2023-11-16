@@ -1,27 +1,29 @@
+<!-- <template>
+  <h1>"This is my first VueJs project"</h1>
+</template>  -->
+
 <template>
-  <div class="Box">
-    <ProductPage />
-    <CardsPage />
+  <div class="Container_Box">
+    <SuperProduct />
   </div>
 </template>
 
 <script>
-import CardsPage from "./views/CardsPage.vue";
-import ProductPage from "./views/ProductPage.vue";
-
+import SuperProduct from "./views/SuperProduct.vue";
+import Menu from "./components/Menu.vue";
 export default {
   name: "App",
   components: {
-    ProductPage,
-    CardsPage,
+    SuperProduct,
+    Menu,
   },
 };
 </script>
 
-<style scoped>
-.Box {
+<style>
+@import "https://unicons.iconscout.com/release/v4.0.0/css/line.css";
+.Container_Box {
   margin: auto;
-  width: 1500px;
-  /* border: 1px solid blue; */
+  width: 1540px;
 }
 </style>

@@ -9,14 +9,16 @@
 import {FontAwesomeIcon} from "@fortawesome/vue-fontawesome";
 import {fas} from "@fortawesome/free-solid-svg-icons";
 import {library} from "@fortawesome/fontawesome-svg-core";
+
 library.add(fas);
 
 export default {
-  name: "Buttons",
-  props: {
-    TextBtn: String,
-    bgBtn: String,
-  },
+  name: "Button",
+  // props: {
+  //   TextBtn: String,
+  //   bgBtn: String,
+  // },
+  props: ["TextBtn", "bgBtn"],
   components: {
     FontAwesomeIcon,
   },
