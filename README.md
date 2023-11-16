@@ -5,7 +5,7 @@
   <img  src="https://media.giphy.com/media/CgCaB0B0zYp4kVhNPf/giphy.gif" width="123">
 </div>
 
-![](https://github.com/daraaveasna/internet-programming/blob/TP01/src/assets/images/demo.gif)
+![](https://github.com/daraaveasna/internet-programming/blob/TP02/src/assets/images/demoTP02.gif)
 
 ## Project Overview
 
