@@ -8,11 +8,9 @@ use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Http\Request;
 use Faker\Factory as Faker;
 
-
 class ProductController extends Controller
 {
-
-     // GetAll /api/products
+    // GetAll /api/products
     public function getProducts(){
         $product = Product::all();
 
