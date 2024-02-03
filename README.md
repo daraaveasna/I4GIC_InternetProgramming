@@ -12,8 +12,8 @@ The Internet Programming Project represents the culmination of our learning jour
  
 - *Lecturer*: Thavorac CHUN
 
-## Technologies Used
-<div align="left">
+## Technologies 
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -36,7 +36,7 @@ The Internet Programming Project represents the culmination of our learning jour
 ## Contributed 
 If you'd like to contribute to this project, please check out our GitHub repository for guidelines on how to contribute.
 ```ruby
-git clone https://github.com/daraaveasna/I4GIC_InternetProgramming
+git clone https://github.com/daraaveasna/internet-programming
 ```
 ## Contact
 If you have any questions, feedback, or concerns, feel free to reach out to me at [dara.veasna@dev.com](daraa.veasna@gmail.com)
