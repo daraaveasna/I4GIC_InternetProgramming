@@ -1,0 +1,10 @@
+
+   INFO  Personal access client created successfully.  
+
+  Client ID ............................................................................................................................. 1  
+  Client secret .................................................................................. T4SpYISWmkKyV4ILMSyghrlqINKV8QqirkGc2GVa  
+
+   INFO  Password grant client created successfully.
+
+  Client ID ............................................................................................................................. 2  
+  Client secret .................................................................................. 1qLSChwa5KLT0crYywyYtQmpBqii2vNSpM1xeXrs
